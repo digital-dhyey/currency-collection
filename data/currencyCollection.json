@@ -11,7 +11,7 @@
     {
       "code": "GBP",
       "flagCode": "GB",
-      "name": "Pound Sterling",
+      "name": "Pound Sterling / Great Britain Pound",
       "desc": "Used in the United Kingdom",
       "amount": 12.35,
       "decimalRounding": 2,
@@ -106,5 +106,78 @@
       "amount": 10.35,
       "decimalRounding": 2,
       "symbol": ""
+    },
+    {
+      "code": "HUF",
+      "flagCode": "HU",
+      "name": "Hungarian Forint",
+      "desc": "Used in Hungary",
+      "amount": 500,
+      "decimalRounding": 2,
+      "symbol": ""
+    },
+    {
+      "code": "PKR",
+      "flagCode": "PK",
+      "name": "Pakistani Rupee",
+      "desc": "Used in Pakistan",
+      "amount": 85,
+      "decimalRounding": 2,
+      "symbol": ""
+    },
+    {
+      "code": "PHP",
+      "flagCode": "PH",
+      "name": "Philippine Peso",
+      "desc": "Used in the Philippines",
+      "amount": 91,
+      "decimalRounding": 2,
+      "symbol": ""
+    },
+    {
+      "code": "CNY",
+      "flagCode": "CN",
+      "name": "Renminbi / Chinese Yuan",
+      "desc": "Used in the People's Republic of China",
+      "amount": 22.6,
+      "decimalRounding": 2,
+      "symbol": ""
+    },
+    {
+      "code": "KRW",
+      "flagCode": "KR",
+      "name": "South Korean Won",
+      "desc": "Used in South Korea",
+      "amount": 1200,
+      "decimalRounding": 2,
+      "symbol": ""
+    },
+    {
+      "code": "RSD",
+      "flagCode": "RS",
+      "name": "Serbian Dinar",
+      "desc": "Used in Serbia",
+      "amount": 929,
+      "decimalRounding": 2,
+      "symbol": ""
+    },
+    {
+      "code": "XPF",
+      "flagCode": "NC",
+      "name": "CFP Franc",
+      "desc": "Used in no whole sovereign countries although it is used in the French Overseas Territories of New Caledonia and French Polynesia",
+      "amount": 2555,
+      "decimalRounding": 2,
+      "symbol": ""
+    },
+    {
+      "code": "LKR",
+      "flagCode": "LK",
+      "name": "Sri Lankan Rupee",
+      "desc": "Used in Sri Lanka",
+      "amount": 277.25,
+      "decimalRounding": 2,
+      "symbol": ""
     }
+    
   ]
