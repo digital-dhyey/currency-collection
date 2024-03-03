@@ -13,13 +13,21 @@
       "name": "Australia",
       "amount": 50.00,
       "decimalRounding": 2,
-      "symbol": "$"
+      "symbol": ""
+    },
+    {
+      "code": "ATG",
+      "flagCode": "AG",
+      "name": "Antigua and Barbuda",
+      "amount": 2000.00,
+      "decimalRounding": 2,
+      "symbol": ""
     },
     {
       "code": "CAN",
       "flagCode": "CA",
       "name": "Canada",
-      "amount": 30.00,
+      "amount": 20.00,
       "decimalRounding": 2,
       "symbol": "$"
     }
