@@ -1,183 +1,182 @@
 [
-    {
-      "code": "USD",
-      "flagCode": "US",
-      "name": "United States Dollar",
-      "desc": "Used in the USA, Ecuador, El Salvador, Zimbabwe, Timor-Leste, Micronesia, Palau, Marshall Islands, and Panama",
-      "amount": 11.16,
-      "decimalRoundng": 2,
-      "symbol": ""
-    },
-    {
-      "code": "GBP",
-      "flagCode": "GB",
-      "name": "Pound Sterling / Great Britain Pound",
-      "desc": "Used in the United Kingdom",
-      "amount": 12.35,
-      "decimalRounding": 2,
-      "symbol": ""
-    },
-    {
-      "code": "AED",
-      "flagCode": "AE",
-      "name": "United Arab Emirates Dirham",
-      "desc": "Used in the United Arab Emirates",
-      "amount": 107.00,
-      "decimalRounding": 2,
-      "symbol": ""
-    },
-    {
-      "code": "VUV",
-      "flagCode": "VU",
-      "name": "Vanuatu Vatu",
-      "desc": "Used in Vanuatu",
-      "amount": 4255.00,
-      "decimalRounding": 2,
-      "symbol": ""
-    },
-    {
-      "code": "RON",
-      "flagCode": "RO",
-      "name": "Romanian Leu",
-      "desc": "Used in Romania",
-      "amount": 26.65,
-      "decimalRounding": 2,
-      "symbol": ""
-    },
-    {
-      "code": "MUR",
-      "flagCode": "MU",
-      "name": "Mauritian Rupee",
-      "desc": "Used in Mauritius",
-      "amount": 25,
-      "decimalRounding": 2,
-      "symbol": ""
-    },
-    {
-      "code": "SGD",
-      "flagCode": "SG",
-      "name": "Singapore Dollar",
-      "desc": "Used in Singapore and Brunei",
-      "amount": 34.75,
-      "decimalRounding": 2,
-      "symbol": ""
-    },
-    {
-      "code": "MYR",
-      "flagCode": "MY",
-      "name": "Malaysian Ringgit",
-      "desc": "Used in Malaysia",
-      "amount": 27.96,
-      "decimalRounding": 2,
-      "symbol": ""
-    },
-    {
-      "code": "PLN",
-      "flagCode": "PL",
-      "name": "Polish Zloty",
-      "desc": "Used in Poland",
-      "amount": 10.00,
-      "decimalRounding": 2,
-      "symbol": ""
-    },
-    {
-      "code": "OMR",
-      "flagCode": "OM",
-      "name": "Omani Rial",
-      "desc": "Used in Oman",
-      "amount": 0.6,
-      "decimalRounding": 2,
-      "symbol": ""
-    },
-    {
-      "code": "BRL",
-      "flagCode": "BR",
-      "name": "Brazillian Real",
-      "desc": "Used in Brazil",
-      "amount": 17.05,
-      "decimalRounding": 2,
-      "symbol": ""
-    },
-    {
-      "code": "EUR",
-      "flagCode": "EU",
-      "name": "Euro",
-      "desc": "Used in all European Union Countries except Bulgaria, Croatia, Czech Republic, Denmark, Hungary, Poland, Romania, and Sweden, as well as San Marino, the Vatican, Monaco, Andorra, Kosovo and Montenegro",
-      "amount": 10.35,
-      "decimalRounding": 2,
-      "symbol": ""
-    },
-    {
-      "code": "HUF",
-      "flagCode": "HU",
-      "name": "Hungarian Forint",
-      "desc": "Used in Hungary",
-      "amount": 500,
-      "decimalRounding": 2,
-      "symbol": ""
-    },
-    {
-      "code": "PKR",
-      "flagCode": "PK",
-      "name": "Pakistani Rupee",
-      "desc": "Used in Pakistan",
-      "amount": 85,
-      "decimalRounding": 2,
-      "symbol": ""
-    },
-    {
-      "code": "PHP",
-      "flagCode": "PH",
-      "name": "Philippine Peso",
-      "desc": "Used in the Philippines",
-      "amount": 91,
-      "decimalRounding": 2,
-      "symbol": ""
-    },
-    {
-      "code": "CNY",
-      "flagCode": "CN",
-      "name": "Renminbi / Chinese Yuan",
-      "desc": "Used in the People's Republic of China",
-      "amount": 22.6,
-      "decimalRounding": 2,
-      "symbol": ""
-    },
-    {
-      "code": "KRW",
-      "flagCode": "KR",
-      "name": "South Korean Won",
-      "desc": "Used in South Korea",
-      "amount": 1200,
-      "decimalRounding": 2,
-      "symbol": ""
-    },
-    {
-      "code": "RSD",
-      "flagCode": "RS",
-      "name": "Serbian Dinar",
-      "desc": "Used in Serbia",
-      "amount": 929,
-      "decimalRounding": 2,
-      "symbol": ""
-    },
-    {
-      "code": "XPF",
-      "flagCode": "NC",
-      "name": "CFP Franc",
-      "desc": "Used in no whole sovereign countries although it is used in the French Overseas Territories of New Caledonia and French Polynesia",
-      "amount": 2555,
-      "decimalRounding": 2,
-      "symbol": ""
-    },
-    {
-      "code": "LKR",
-      "flagCode": "LK",
-      "name": "Sri Lankan Rupee",
-      "desc": "Used in Sri Lanka",
-      "amount": 277.25,
-      "decimalRounding": 2,
-      "symbol": ""
-    }
-    
-  ]
+  {
+    "code": "USD",
+    "flagCode": "US",
+    "name": "United States Dollar",
+    "desc": "Used in the USA, Ecuador, El Salvador, Zimbabwe, Timor-Leste, Micronesia, Palau, Marshall Islands, and Panama",
+    "amount": 11.16,
+    "decimalRoundng": 2,
+    "symbol": ""
+  },
+  {
+    "code": "GBP",
+    "flagCode": "GB",
+    "name": "Pound Sterling / Great Britain Pound",
+    "desc": "Used in the United Kingdom",
+    "amount": 12.35,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "AED",
+    "flagCode": "AE",
+    "name": "United Arab Emirates Dirham",
+    "desc": "Used in the United Arab Emirates",
+    "amount": 107.00,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "VUV",
+    "flagCode": "VU",
+    "name": "Vanuatu Vatu",
+    "desc": "Used in Vanuatu",
+    "amount": 4255.00,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "RON",
+    "flagCode": "RO",
+    "name": "Romanian Leu",
+    "desc": "Used in Romania",
+    "amount": 26.65,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "MUR",
+    "flagCode": "MU",
+    "name": "Mauritian Rupee",
+    "desc": "Used in Mauritius",
+    "amount": 25,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "SGD",
+    "flagCode": "SG",
+    "name": "Singapore Dollar",
+    "desc": "Used in Singapore and Brunei",
+    "amount": 34.75,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "MYR",
+    "flagCode": "MY",
+    "name": "Malaysian Ringgit",
+    "desc": "Used in Malaysia",
+    "amount": 27.96,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "PLN",
+    "flagCode": "PL",
+    "name": "Polish Zloty",
+    "desc": "Used in Poland",
+    "amount": 10.00,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "OMR",
+    "flagCode": "OM",
+    "name": "Omani Rial",
+    "desc": "Used in Oman",
+    "amount": 0.6,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "BRL",
+    "flagCode": "BR",
+    "name": "Brazillian Real",
+    "desc": "Used in Brazil",
+    "amount": 17.05,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "EUR",
+    "flagCode": "EU",
+    "name": "Euro",
+    "desc": "Used in all European Union Countries except Bulgaria, Croatia, Czech Republic, Denmark, Hungary, Poland, Romania, and Sweden, as well as San Marino, the Vatican, Monaco, Andorra, Kosovo and Montenegro",
+    "amount": 10.35,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "HUF",
+    "flagCode": "HU",
+    "name": "Hungarian Forint",
+    "desc": "Used in Hungary",
+    "amount": 500,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "PKR",
+    "flagCode": "PK",
+    "name": "Pakistani Rupee",
+    "desc": "Used in Pakistan",
+    "amount": 85,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "PHP",
+    "flagCode": "PH",
+    "name": "Philippine Peso",
+    "desc": "Used in the Philippines",
+    "amount": 91,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "CNY",
+    "flagCode": "CN",
+    "name": "Renminbi / Chinese Yuan",
+    "desc": "Used in the People's Republic of China",
+    "amount": 22.6,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "KRW",
+    "flagCode": "KR",
+    "name": "South Korean Won",
+    "desc": "Used in South Korea",
+    "amount": 1200,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "RSD",
+    "flagCode": "RS",
+    "name": "Serbian Dinar",
+    "desc": "Used in Serbia",
+    "amount": 929,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "XPF",
+    "flagCode": "NC",
+    "name": "CFP Franc",
+    "desc": "Used in no whole sovereign countries although it is used in the French Overseas Territories of New Caledonia and French Polynesia",
+    "amount": 2555,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "LKR",
+    "flagCode": "LK",
+    "name": "Sri Lankan Rupee",
+    "desc": "Used in Sri Lanka",
+    "amount": 277.25,
+    "decimalRounding": 2,
+    "symbol": ""
+  }
+]
