@@ -1,0 +1,18 @@
+[
+    {
+      "code": "UDS",
+      "flagCode": "US",
+      "name": "United States",
+      "amount": 8.00,
+      "decimalRounding": 2,
+      "symbol": "$"
+    },
+    {
+      "code": "AUD",
+      "flagCode": "AU",
+      "name": "Australia",
+      "amount": 50.00,
+      "decimalRounding": 2,
+      "symbol": "$"
+    }
+  ]
