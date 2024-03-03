@@ -14,5 +14,13 @@
       "amount": 50.00,
       "decimalRounding": 2,
       "symbol": "$"
+    },
+    {
+      "code": "CAN",
+      "flagCode": "CA",
+      "name": "Canada",
+      "amount": 30.00,
+      "decimalRounding": 2,
+      "symbol": "$"
     }
   ]
