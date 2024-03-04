@@ -187,5 +187,14 @@
     "amount": 286,
     "decimalRounding": 2,
     "symbol": ""
+  },
+  {
+    "code": "ZWL",
+    "flagCode": "ZW",
+    "name": "Zimbabwean Dollar",
+    "desc": "Used in Zimbabwe",
+    "amount": 2,
+    "decimalRounding": 2,
+    "symbol": ""
   }
 ]
