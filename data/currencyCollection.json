@@ -214,5 +214,222 @@
     "amount": 370,
     "decimalRounding": 2,
     "symbol": ""
+  },
+  {
+    "code": "IDR",
+    "flagCode": "ID",
+    "name": "Indonesian Rupiah",
+    "desc": "Used in Indonesia",
+    "amount": 1000,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "MOP",
+    "flagCode": "MO",
+    "name": "Macanese Pataca",
+    "desc": "Used in no Sovereign Countries but used in the Special Administrative Region of Macau in the Peoples Republic of China",
+    "amount": 10,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "HKD",
+    "flagCode": "HK",
+    "name": "Hong Kong",
+    "desc": "Used in no Sovereign Countries but used in the Special Administrative Region of Hong Kong in the Peoples Republic of China",
+    "amount": 23.2,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "NPR",
+    "flagCode": "NP",
+    "name": "Nepali Rupee",
+    "desc": "Used in Nepal",
+    "amount": 20,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "TRY",
+    "flagCode": "TR",
+    "name": "Turkish Lira",
+    "desc": "Used in Turkey",
+    "amount": 5,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "SEK",
+    "flagCode": "SE",
+    "name": "Swedish Krona",
+    "desc": "Used in Sweden",
+    "amount": 20,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "ZAR",
+    "flagCode": "ZA",
+    "name": "South African Rand",
+    "desc": "Used in South Africa",
+    "amount": 30,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "QAR",
+    "flagCode": "QA",
+    "name": "Qatari Riyal",
+    "desc": "Used in Qatar",
+    "amount": 1,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "SAR",
+    "flagCode": "SA",
+    "name": "Saudi Riyal",
+    "desc": "Used in Saudi Arabia",
+    "amount": 1,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "MVR",
+    "flagCode": "MV",
+    "name": "Maldivian Rufiyaa",
+    "desc": "Used in the Maldives",
+    "amount": 15,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "MXN",
+    "flagCode": "MX",
+    "name": "Mexican Pesos",
+    "desc": "Used in Mexico",
+    "amount": 40,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "EGP",
+    "flagCode": "EG",
+    "name": "Egyptian Pound",
+    "desc": "Used in Egypt",
+    "amount": 13.5,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "VND",
+    "flagCode": "VN",
+    "name": "Vietnamese Dong",
+    "desc": "Used in Nepal",
+    "amount": 30000,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "THB",
+    "flagCode": "TH",
+    "name": "Thai Baht",
+    "desc": "Used in Thailand",
+    "amount": 25,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "CAD",
+    "flagCode": "CA",
+    "name": "Canadian Dollar",
+    "desc": "Used in Canada",
+    "amount": 1.7,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "INR",
+    "flagCode": "IN",
+    "name": "Indian Rupee",
+    "desc": "Used in India and accepted in Bhutan and Nepal",
+    "amount": 1202,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "CHF",
+    "flagCode": "CH",
+    "name": "Swiss Franc",
+    "desc": "Used in Switzerland and Liechtenstein",
+    "amount": 8.35,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "WST",
+    "flagCode": "WS",
+    "name": "Samoan Tala",
+    "desc": "Used in Samoa",
+    "amount": 0.2,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "PGK",
+    "flagCode": "PG",
+    "name": "Papua New Guinea Kina",
+    "desc": "Used in Papua New Guinea",
+    "amount": 0.2,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "UAH",
+    "flagCode": "UA",
+    "name": "Ukrainian Hryvnia",
+    "desc": "Used in Ukraine",
+    "amount": 5,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "ILS",
+    "flagCode": "IL",
+    "name": "Israeli New Shekel",
+    "desc": "Used in Israel and the Palestinan Authority",
+    "amount": 0.15,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "BDT",
+    "flagCode": "BD",
+    "name": "Bangladeshi Taka",
+    "desc": "Used in Bangladesh",
+    "amount": 2,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "TWD",
+    "flagCode": "TW",
+    "name": "New Taiwan Dollar",
+    "desc": "Used in Taiwan (Republic of China)",
+    "amount": 1,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "NGN",
+    "flagCode": "NG",
+    "name": "Nigerian Naira",
+    "desc": "Used in Nigeria",
+    "amount": 1,
+    "decimalRounding": 2,
+    "symbol": ""
   }
+
 ]
