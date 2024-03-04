@@ -439,5 +439,14 @@
     "amount": 200,
     "decimalRounding": 2,
     "symbol": ""
+  },
+  {
+    "code": "DKK",
+    "flagCode": "DK",
+    "name": "Danish Krone",
+    "desc": "Used in Denmark",
+    "amount": 5,
+    "decimalRounding": 2,
+    "symbol": ""
   }
 ]
