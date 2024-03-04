@@ -430,5 +430,14 @@
     "amount": 1,
     "decimalRounding": 2,
     "symbol": ""
+  },
+  {
+    "code": "UZS",
+    "flagCode": "UZ",
+    "name": "Uzbekistani Som",
+    "desc": "Used in Uzbekistan",
+    "amount": 200,
+    "decimalRounding": 2,
+    "symbol": ""
   }
 ]
