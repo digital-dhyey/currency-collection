@@ -178,5 +178,14 @@
     "amount": 277.25,
     "decimalRounding": 2,
     "symbol": ""
+  },
+  {
+    "code": "JPY",
+    "flagCode": "JP",
+    "name": "Japanese Yen",
+    "desc": "Used in Japan",
+    "amount": 286,
+    "decimalRounding": 2,
+    "symbol": ""
   }
 ]
