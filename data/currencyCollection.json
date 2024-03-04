@@ -196,5 +196,23 @@
     "amount": 2,
     "decimalRounding": 2,
     "symbol": ""
+  },
+  {
+    "code": "NZD",
+    "flagCode": "NZ",
+    "name": "New Zealand Dollar",
+    "desc": "Used in New Zealand",
+    "amount": 17.8,
+    "decimalRounding": 2,
+    "symbol": ""
+  },
+  {
+    "code": "KZT",
+    "flagCode": "KZ",
+    "name": "Kazakhstani Tenge",
+    "desc": "Used in Kazakhstan",
+    "amount": 370,
+    "decimalRounding": 2,
+    "symbol": ""
   }
 ]
