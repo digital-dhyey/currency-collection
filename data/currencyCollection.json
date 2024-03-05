@@ -448,5 +448,14 @@
     "amount": 5,
     "decimalRounding": 2,
     "symbol": ""
+  },
+  {
+    "code": "AUD",
+    "flagCode": "AU",
+    "name": "Australian Dollar",
+    "desc": "Used in Australia",
+    "amount": 255.90,
+    "decimalRounding": 2,
+    "symbol": ""
   }
 ]
