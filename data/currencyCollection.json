@@ -457,5 +457,14 @@
     "amount": 255.90,
     "decimalRounding": 2,
     "symbol": ""
+  },
+  {
+    "code": "DEM",
+    "flagCode": "DE",
+    "name": "Deutsche Mark",
+    "desc": "Used in Germany before Euro",
+    "amount": 3.97,
+    "decimalRounding": 2,
+    "symbol": ""
   }
 ]
