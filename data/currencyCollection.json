@@ -130,43 +130,7 @@
     "flagCode": "PH",
     "name": "Philippine Peso",
     "desc": "Used in the Philippines",
-    "amount": 194,
-    "decimalRounding": 2,
-    "symbol": ""
-  },
-  {
-    "code": "MAD",
-    "flagCode": "MA",
-    "name": "Morocco Dirham",
-    "desc": "Used in Morocco",
-    "amount": 1,
-    "decimalRounding": 2,
-    "symbol": ""
-  },
-  {
-    "code": "BHD",
-    "flagCode": "BH",
-    "name": "Bahraini Dinar",
-    "desc": "Used in Bahrain",
-    "amount": 0.25,
-    "decimalRounding": 2,
-    "symbol": ""
-  },
-  {
-    "code": "FJD",
-    "flagCode": "FJ",
-    "name": "Fijian Dollar",
-    "desc": "Used in Fiji",
-    "amount": 0.05,
-    "decimalRounding": 2,
-    "symbol": ""
-  },
-  {
-    "code": "SBD",
-    "flagCode": "SB",
-    "name": "Solomon Islands Dollar",
-    "desc": "Used in the Solomon Islands",
-    "amount": 0.25,
+    "amount": 91,
     "decimalRounding": 2,
     "symbol": ""
   },
@@ -175,16 +139,7 @@
     "flagCode": "CN",
     "name": "Renminbi / Chinese Yuan",
     "desc": "Used in the People's Republic of China",
-    "amount": 28.6,
-    "decimalRounding": 2,
-    "symbol": ""
-  },
-  {
-    "code": "XAF",
-    "flagCode": "NE",
-    "name": "Central African CFA franc",
-    "desc": "Used in Senegal, Mali, Burkina Faso, Côte d'Ivoire, Niger, Equatorial Guinea, and Guinea-Bissau",
-    "amount": 50,
+    "amount": 22.6,
     "decimalRounding": 2,
     "symbol": ""
   },
@@ -194,15 +149,6 @@
     "name": "South Korean Won",
     "desc": "Used in South Korea",
     "amount": 1200,
-    "decimalRounding": 2,
-    "symbol": ""
-  },
-  {
-    "code": "CDF",
-    "flagCode": "CD",
-    "name": "Congolese Franc",
-    "desc": "Used in the Democratic Republic of the Congo",
-    "amount": 1,
     "decimalRounding": 2,
     "symbol": ""
   },
@@ -274,7 +220,7 @@
     "flagCode": "ID",
     "name": "Indonesian Rupiah",
     "desc": "Used in Indonesia",
-    "amount": 36600,
+    "amount": 1000,
     "decimalRounding": 2,
     "symbol": ""
   },
@@ -301,16 +247,7 @@
     "flagCode": "NP",
     "name": "Nepali Rupee",
     "desc": "Used in Nepal",
-    "amount": 30,
-    "decimalRounding": 2,
-    "symbol": ""
-  },
-  {
-    "code": "BTN",
-    "flagCode": "BT",
-    "name": "Bhutanese Ngultrum",
-    "desc": "Used in Bhutan",
-    "amount": 0.25,
+    "amount": 20,
     "decimalRounding": 2,
     "symbol": ""
   },
@@ -391,7 +328,7 @@
     "flagCode": "VN",
     "name": "Vietnamese Dong",
     "desc": "Used in Nepal",
-    "amount": 38000,
+    "amount": 30000,
     "decimalRounding": 2,
     "symbol": ""
   },
@@ -468,15 +405,6 @@
     "symbol": ""
   },
   {
-    "code": "KES",
-    "flagCode": "KE",
-    "name": "Kenyan Shillings",
-    "desc": "Used in Kenya",
-    "amount": 150,
-    "decimalRounding": 2,
-    "symbol": ""
-  },
-  {
     "code": "BDT",
     "flagCode": "BD",
     "name": "Bangladeshi Taka",
@@ -526,7 +454,7 @@
     "flagCode": "AU",
     "name": "Australian Dollar",
     "desc": "Used in Australia",
-    "amount": 300,
+    "amount": 255.90,
     "decimalRounding": 2,
     "symbol": ""
   }
